@@ -1,2 +1,4 @@
 # CalculateTime
-This is my first programming language that I have learned. I have interest of making a side project for a while now. To which I created this code.
+This is the first programming language that I have learned. I have been interested in doing a side project for a while now. To which I created this code.
+
+Feel free to ask me for additional code! I would be happy to update the repository!
